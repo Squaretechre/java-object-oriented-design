@@ -5,7 +5,7 @@ enum Currency { USD, EURO;
 }
 
 // Money exposes the fact that it stores value as a double.
-// If the class of value needs to change then all calls will need to change.
+// If the type of value needs to change then all calls will need to change.
 
 // What happens when Money needs to express what currency it is?
 // getValue returns a primitive that doesn't explain this.
