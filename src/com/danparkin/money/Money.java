@@ -1,4 +1,4 @@
-package com.danparkin;
+package com.danparkin.money;
 
 enum Currency { USD, EURO;
     public double conversionRateTo(Currency target) { return 1.0; }

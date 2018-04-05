@@ -1,3 +1,3 @@
-# Money Demo
+# Java Object Oriented Design
 
-A naive implementation of a money type from Java Fundamentals: Object-oriented Design on Pluralsight.
+Notes from [Java Fundamentals: Object-oriented Design](https://www.pluralsight.com/courses/java-fundamentals-object-oriented-design) by [Allen Holub](https://twitter.com/allenholub) on Pluralsight.
